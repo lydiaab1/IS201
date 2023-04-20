@@ -1,0 +1,45 @@
+ul{
+    font-size:20px;
+}
+
+.common{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.tableauPlaceholder{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    height: 100px;
+    background-color: rgb(191, 154, 105);
+    color: white;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: tan;
+    color: black;
+}
+
+.footer{
+    height: 70px;
+    background-color: rgb(107, 90, 68);
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    padding-top: 10px;
+}
+
+nav{
+    font-size: 24px;
+}
+nav a:hover{
+    background-color: white;
+    padding: 10px;
+    color: black;
+}
